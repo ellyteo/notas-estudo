@@ -23,7 +23,7 @@ git config --global user.email "meu email do GitHub"
 
 ## SSH- Como configurar a máquina para o GitHub
 
-1° verificar se há chave ssh com o comando:
+1° verificar se há chave SSH com o comando:
 ```bash
 ls -al ~/.ssh
 ```
